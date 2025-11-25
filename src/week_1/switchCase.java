@@ -1,3 +1,5 @@
+package week_1;
+
 public class switchCase {
     public static void main(String args[]){
         int day=2;

@@ -1,3 +1,5 @@
+package week_1;
+
 public class if_else {
     public static void main(String args[]){
         int a=10, b=5;
