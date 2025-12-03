@@ -12,7 +12,7 @@ public class ThreadTest {
         Thread t1 = new Thread(runnableInterface);
         t1.start();
 
-        for(; ;){
+        for( ; ; ){
             System.out.println(Thread.currentThread().getName());
         }
     }

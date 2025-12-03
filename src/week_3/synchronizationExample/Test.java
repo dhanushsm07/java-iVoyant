@@ -14,6 +14,6 @@ public class Test {
         t1.join();
         t2.join();
 
-        System.out.println(count.getCount());
+        System.out.print(count.getCount());
     }
 }
